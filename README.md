@@ -8,6 +8,8 @@ Aplicativo em **Console** que verifica o **dia** e o **mês** em que nasceu, atr
  - Criar e Percorrer arrays.
 
 # Para rodar o App:
-1. Baixe o Arquivo, vá até o local:\AppSigno\bin\Debug\netcoreapp3.1 e Execute o AppSigno.exe.
+Baixe o Arquivo, vá até o local:\AppSigno\bin\Debug\netcoreapp3.1 e Execute o AppSigno.exe.
+ 
 ou 
-2. Se tiver o Visual Studio instalado, baixe o arquivo e execute o AppSigno.sln.
+
+Se tiver o Visual Studio instalado, baixe o arquivo e execute o AppSigno.sln.
